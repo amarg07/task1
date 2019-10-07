@@ -1,2 +1,2 @@
 test.txt
-some changes are made.
+changes for feature.
